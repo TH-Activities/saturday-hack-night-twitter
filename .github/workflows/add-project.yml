@@ -1,0 +1,32 @@
+name: Add Project
+on:
+  workflow_dispatch:
+    inputs:
+      repo_url:
+        description: 'Repository URL (https)'
+        required: true
+      folder_name:
+        description: 'Folder Name'
+        required: true
+concurrency:
+    group: add-project
+    cancel-in-progress: false
+jobs:
+  version-bump:
+    name: Add Project
+    runs-on: ubuntu-latest
+    steps:
+       - name: Checkout Source
+         uses: actions/checkout@v2
+       - name: Add project as submodule
+         run: |
+            git config pull.rebase true || true
+            git pull || true
+            git submodule add ${{ github.event.inputs.repo_url }} "${{ github.event.inputs.folder_name }}"
+       - name: Commit changes
+         run: |
+            git config user.name tinkerhub-bot
+            git config user.email bot@tinkerhub.org
+            git add --all || true
+            git commit -m "Added ${{ github.event.inputs.folder_name }}" || true
+            git push --quiet
