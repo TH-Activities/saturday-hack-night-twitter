@@ -11,7 +11,7 @@ Twitter APIs are the APIs that you can use to interact with Twitter. They enable
 
 Here are some cool ideas as sample.You can either modify these problem statements in your own way or else you can come up with your own brainstorming super cool ideas.
 - Tweet to Quote : Have you ever seen a tweet and wanted to Quote it as an Image. Then Build it. Build something that inputs a tweet and converts it into a Quote Image.
-- Mood Meme Tweeter : Are you the type of person who tweets Quotes based on your mood? Then this is for you. Build something that tweets a quote based on users’ mood
+- Mood Tweeter : Are you the type of person who tweets Quotes based on your mood? Then this is for you. Build something that tweets a quote based on users’ mood
 
 
 ## For Further Queries
