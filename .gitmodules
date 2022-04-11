@@ -34,3 +34,6 @@
 [submodule "Locators | PKdAAoYViorXgemrpABN"]
 	path = Locators | PKdAAoYViorXgemrpABN
 	url = https://github.com/unniznd/TwiiterAPI
+[submodule "nikiljos | tImxlbMQBk9LxIEEQfnF"]
+	path = nikiljos | tImxlbMQBk9LxIEEQfnF
+	url = https://github.com/nikiljos/shn-twitter-api
