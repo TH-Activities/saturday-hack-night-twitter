@@ -46,3 +46,6 @@
 [submodule "BugBusters | 3tuOLxIw6lMpbFESMEIz"]
 	path = BugBusters | 3tuOLxIw6lMpbFESMEIz
 	url = https://github.com/aravinds-arv/twizdom
+[submodule "Tweetlytics | iAgAqN4YOMcIbeFx2OBC"]
+	path = Tweetlytics | iAgAqN4YOMcIbeFx2OBC
+	url = https://github.com/sreehari2003/tweetlytics
