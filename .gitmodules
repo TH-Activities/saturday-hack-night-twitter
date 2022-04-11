@@ -31,3 +31,6 @@
 [submodule "Tubelight | AG0yxmHteyBz5HEH3Znz"]
 	path = Tubelight | AG0yxmHteyBz5HEH3Znz
 	url = https://github.com/twilighty-abhi/tubelight.irl
+[submodule "Locators | PKdAAoYViorXgemrpABN"]
+	path = Locators | PKdAAoYViorXgemrpABN
+	url = https://github.com/unniznd/TwiiterAPI
