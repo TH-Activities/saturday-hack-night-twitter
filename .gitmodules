@@ -37,3 +37,6 @@
 [submodule "nikiljos | tImxlbMQBk9LxIEEQfnF"]
 	path = nikiljos | tImxlbMQBk9LxIEEQfnF
 	url = https://github.com/nikiljos/shn-twitter-api
+[submodule "Twittr | rBeM9yZ1c8Np8ZlF7Avy"]
+	path = Twittr | rBeM9yZ1c8Np8ZlF7Avy
+	url = https://github.com/AswinAsok/twittr
