@@ -115,3 +115,6 @@
 [submodule "Aquila | y8mjJiGXWL0ij08LPWvX"]
 	path = Aquila | y8mjJiGXWL0ij08LPWvX
 	url = https://github.com/tsuAquila/HackNight
+[submodule "GottaHackNow | PIqInHv2aLno1eRlOCn1"]
+	path = GottaHackNow | PIqInHv2aLno1eRlOCn1
+	url = https://github.com/Gokul-GMenon/HackNight-TwitterAPI
