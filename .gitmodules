@@ -142,3 +142,6 @@
 [submodule "Hola | 0xPPAXeFqOWH9HLVVpUv"]
 	path = Hola | 0xPPAXeFqOWH9HLVVpUv
 	url = https://github.com/Anjanajnair/Twitter----api
+[submodule "TeamOne | 8mKKqESj76NcHxqu9Gns"]
+	path = TeamOne | 8mKKqESj76NcHxqu9Gns
+	url = https://github.com/amjadcp/SHN-twitter-api
