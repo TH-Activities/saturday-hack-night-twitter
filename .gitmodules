@@ -133,3 +133,6 @@
 [submodule "FerventTrio | gsZCR7AYNdqN5A9OuMut"]
 	path = FerventTrio | gsZCR7AYNdqN5A9OuMut
 	url = https://github.com/bitbybit344/fervent_trio
+[submodule "FastFingers | dfbs9bNRHihs9SfdAQ8u"]
+	path = FastFingers | dfbs9bNRHihs9SfdAQ8u
+	url = https://github.com/shinoj-exe/hacknight_twitterAPI
